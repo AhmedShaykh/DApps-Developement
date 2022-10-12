@@ -1,4 +1,4 @@
-# Learn to Build dApps using Next.js and Ethers in Baby Steps
+# Learn to Build DApps using Next.js and Ethers in Baby Steps
 
 This repo is part of the [Certified Web 3.0 and Metaverse Developer Training Program](https://www.panaverse.co/).
 
